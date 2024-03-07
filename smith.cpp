@@ -49,5 +49,8 @@ void input(){
 }
 
 int main(){
-
+ input();
+        bubbleSortArray();
+        display();
+        system("pause");
 }
